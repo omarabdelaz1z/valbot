@@ -1,3 +1,5 @@
+```ts
+
 import ValClient from '../ValClient';
 
 import { CommandContext } from '../structures';
@@ -79,3 +81,4 @@ export default class Clear {
 		else return undefined;
 	};
 }
+```
